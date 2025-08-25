@@ -132,6 +132,3 @@ When running the application, the console will display messages showing the mess
 [Alice] Sent: 10, Received: 10
 [Bob] Sent: 10, Received: 10
 ```
-
-
-
